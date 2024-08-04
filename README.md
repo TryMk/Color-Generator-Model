@@ -56,7 +56,7 @@ jupyter notebook "Color Generator Model Final.ipynb"
 
 Make sure the `colors.csv` file is in the same directory as the notebook.
 
-5. **Execute the notebook cells to train the model and generate colors.**
+5. **Execute the notebook cells to train the model and generate colors. (You may load weights to predict the colors easily without training.)**
 
 ## Data
 
