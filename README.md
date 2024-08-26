@@ -49,7 +49,7 @@ cd color-generator-model
 3. **Run the Jupyter Notebook:**
 
 ```bash
-jupyter notebook "Color Generator Model Final.ipynb"
+jupyter notebook "Color Generator Model.ipynb"
 ```
 
 4. **Load the data:**
